@@ -34,7 +34,7 @@
     "joi": "^10.2.0",
     "jsonwebtoken": "^7.2.1",
     "method-override": "^2.3.7",
-    "mongoose": "^4.7.7",
+    "mongoose": "^5.13.3",
     "mongoose-type-email": "^1.0.2",
     "morgan": "^1.7.0",
     "winston": "^2.3.0"
